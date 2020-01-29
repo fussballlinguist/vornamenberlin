@@ -14,7 +14,7 @@ my $strp = DateTime::Format::Strptime->new(
 );
 my $dt = $strp->parse_datetime($begin);
 
-open IN, "< /Users/Simon/Dokumente/Bots/Vornamen/complete.csv" or die $!;
+open IN, "< /path/to/file/complete.csv" or die $!;
 my @names;
 my @fields;
 my $first;
