@@ -7,9 +7,9 @@ Das Script [vornamenberlin.pl](https://github.com/fussballlinguist/vornamenberli
 Die unter einer  [CC BY 3.0 DE](https://creativecommons.org/licenses/by/3.0/de/) Lizenz stehenden Daten (Urheber: Berliner Landesamt für Bürger- und Ordnungsangelegenheiten (LABO) / BerlinOnline Stadtportal GmbH & Co. KG) wurden vom GitHub Repositorium [Listen der häufigen Vornamen in Berlin](https://github.com/berlinonline/haeufige-vornamen-berlin) heruntergeladen und in einer Datei mit der ergänzten Spalte "Bezirk" zusammengefügt:
 
 ```
-Sophie,66,w,2,Charlottenburg-Wilmerdorf
-Marie,58,w,2,Charlottenburg-Wilmerdorf
-Maria,46,w,2,Charlottenburg-Wilmerdorf
+Sophie,66,w,2,Charlottenburg-Wilmersdorf
+Marie,58,w,2,Charlottenburg-Wilmersdorf
+Maria,46,w,2,Charlottenburg-Wilmersdorf
 ...
 ```
 
