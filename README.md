@@ -13,4 +13,4 @@ Maria,46,w,2,Charlottenburg-Wilmersdorf
 ...
 ```
 
-Das Script generiert eine 1000 Zeilen lange tsv-Datei mit Zeitstempeln, um die Tweets über den freien Webservice [AutoChirp](https://autochirp.spinfo.uni-koeln.de/home) auch ohne Developer Account automatisiert publizieren zu können.
+Das Script nutzt die [Python-Implementierung der Mastodon API](https://mastodonpy.readthedocs.io/en/stable/).
